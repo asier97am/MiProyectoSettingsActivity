@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MiProyectoSettingsActivity</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="datos_header">Mis datos</string>
+    <string name="opciones_header">Opciones</string>
+
+    <!-- Mis datos Preferences -->
+    <string name="activar_sonido">Activar sonido</string>
+    <string name="descripcion_activar_sonido_ON">Sonido Activado</string>
+    <string name="descripcion_activar_sonido_OFF">Sonido Desactivado</string>
+
+    <!-- Strings para control mail Preferences -->
+    <string name="correo_electronico">Email</string>
+    <string name="descripcion_correo_electronico">Aquí se guardará el correo electrónico</string>
+    <string name="texto_cuadro_correo_electronico">Introduce aquí tu email</string>
+
+    <!-- LIST SEXO (M/H/O)  Preferences -->
+    <string name="sexo">Sexo</string>
+    <string name="descripcion_sexo">Aquí se guardará el sexo</string>
+
+    <!-- MULTISELECT  Preferences -->
+    <string name="aficiones">Aficiones</string>
+    <string name="descripcion_aficiones">Aquí se guardará las aficiones</string>
+
+    <!-- SWITCH  Preferences -->
+    <string name="activar_notifaciones">Activar Notifaciones</string>
+    <string name="descripcion_activar_notifaciones">Aquí se indicará si se activan notificaciones</string>
+
+
+</resources>
